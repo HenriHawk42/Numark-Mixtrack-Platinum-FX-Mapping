@@ -2,6 +2,7 @@
 
 Henri here- I got a Numark Mixtrack Platinum FX, and none of the configs/mappings I found fully worked. I took the demo mode exiting code from https://github.com/istankovic/Numark-Mixtrack-Platinum-FX and merged it onto https://github.com/ending2020/Numark-Mixtrack-Platinum-FX-Mapping. It now works. I'll save you the pain of figuring this out, and upload the files. Feel free to contact me if you encounter issues.
 
+To install these files, check https://manual.mixxx.org/2.3/en/chapters/controlling_mixxx.html#installing-a-mapping-from-the-forum.
 
 
 Ending2020's readme:
